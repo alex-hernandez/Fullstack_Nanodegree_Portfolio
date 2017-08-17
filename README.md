@@ -1,5 +1,4 @@
-<p><h1> Full Stack Nanodegree Portfolio </h1><br>
-<h2>Alejandro Hernandez</p>
+<p><h1> Full Stack Nanodegree Portfolio </h1> - <h2>Alejandro Hernandez</p>
 
 <p><strong><u>Featured Work:</u></strong>
 <br>
