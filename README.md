@@ -1,5 +1,6 @@
-# Fullstack_Nanodegree_Portfolio
-Portfolio Project from the Udacity Full Stack Nanodegree
+<p><h1> Full Stack Nanodegree Portfolio </h1><br>
+<h2>Alejandro Hernandez</p>
 
-<h1> Full Stack Nanodegree Portfolio </h1><br>
-<h2>Alejandro Hernandez
+<strong><u>Featured Work:</u></strong>
+<br>
+<h4> Favorite Movie Website </h4>
