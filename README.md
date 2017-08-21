@@ -1,4 +1,4 @@
-<h1> Portfolio Project files for Udacity - Full Stack Web Developer Nanodegree </h1>
+<h1> Portfolio Project files for Udacity "Build a Portfolio Website" project </h1>
 
 <strong><u>Featured Work:</u></strong>
 <br>
@@ -9,7 +9,7 @@
 </ul>
 
 <h2> Download Instructions </h2>
-<or>
+<ol>
 <li><h4> 1) Download repository from github </li></h4>
 <li><h4> 1) Download repository from github </li></h4>
 <li><h4> 1) Download repository from github </li></h4>
