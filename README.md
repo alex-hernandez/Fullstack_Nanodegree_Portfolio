@@ -12,7 +12,9 @@
 <ol>
 <li><h4> Download repository from github https://github.com/alex-hernandez/Fullstack_Nanodegree_Portfolio </li></h4>
 <li><h4> Unzip the file </li></h4>
-<li><h4> Double click index.html file to launch website </li></h4>
+<li><h4> Launch a web browser such as Google Chrome </li></h4>
+<li><h4> On any webpage, go to file>open (or CTRL+O) </li></h4>
+<li><h4> select the index file from the repository </li></h4>
 </ol>
 
 
