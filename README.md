@@ -10,6 +10,9 @@
 
 <h2> Download Instructions </h2>
 <ol>
-<li><h4> 1) Download repository from github </li></h4>
-<li><h4> 1) Download repository from github </li></h4>
-<li><h4> 1) Download repository from github </li></h4>
+<li><h4> Download repository from github https://github.com/alex-hernandez/Fullstack_Nanodegree_Portfolio </li></h4>
+<li><h4> Unzip the file </li></h4>
+<li><h4> Double click index.html file to launch website </li></h4>
+</ol>
+
+
